@@ -11,7 +11,7 @@
       "port": 5432,//端口
       "username": "postgres",//用户名
       "password": "123456",//密码
-      "database": "xiaoW",//数据库名称
+      "database": "markdown",//数据库名称
       "entities": ["dist/**/*.entity.js"],
       "synchronize": true,
       "logging": true
